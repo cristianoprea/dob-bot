@@ -27,3 +27,5 @@ Instructions:
 5. RUN **node index.js**
 6. Scan the QR code using the WhatsApp on your phone by linking a new device
 7. Based on the recurrence you set at the 3rd step, wait to see the magic 
+
+Note: The id from the data source file represent the national card id which contains the date of birth. We use the Id to get the daily celebrants.
